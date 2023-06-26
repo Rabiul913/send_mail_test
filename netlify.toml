@@ -1,0 +1,3 @@
+[build]
+  command = "composer install --no-dev && npm install && npm run production"
+  publish = "public"
